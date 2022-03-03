@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/images/favicon.ico">
+  <link rel="icon" type="image/png" href="{{ site.url }}/images/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/images/favicon.ico">
+  <meta name="author" content="Tobias Kunze">
+  <meta name="description" content="Tobias Kunze: API and backend development">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <link rel="stylesheet" href="{{ site.url }}/css/fonts.css"/>
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css"/>
+</head>
+<body>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer></footer>
+</body>
+</html>

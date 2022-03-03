@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Kanzlei';
+  src:  url('/fonts/Kanzlei-Initialen.ttf') format('truetype');
+  }
+@font-face {
+  font-family: 'EB Garamond 12';
+  font-style: normal;
+  src:  url('/fonts/EBGaramond12-Regular.eot');  
+  src:  url('/fonts/EBGaramond12-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EB Garamond 12";
+  font-style: italic;
+  src:  url('/fonts/EBGaramond12-Italic.eot');
+  src:  url('/fonts/EBGaramond12-Italic.woff') format('woff');
+  }
