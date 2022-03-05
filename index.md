@@ -14,7 +14,7 @@ contractor**, and I'm always happy to take on new challenges.
 
 Given a choice, I usually build my APIs and backends with Python, for the most part with Django. My frontend development
 focus is vue.js or plain minimal JavaScript, depending on the project I work with.<br>
-The following projects showcase what I do and how I work:
+The following projects showcase what I do and how I work – (see also: [my CV](/cv.pdf)):
 
 ### pretalx
 
