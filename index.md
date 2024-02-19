@@ -36,7 +36,15 @@ pandemic. Its backend is written in Django, but uses WebSockets and asynchronous
 technologies, to provide seamless real-time communications. The frontend is a Vue.js SPA. Venueless, despite being
 created by a small team under significant pressure, has turned out to be a well-rounded and successful project used by a
 wide variety of conferences and events.
-  
+
+### Maintenance and updates
+
+Another part of my work is maintaining and updating existing projects. Usually on a retainer basis, I provide ongoing
+support and development for a number of clients. The focus here is usually on assuring library and security updates are
+applied promptly, and being available for debugging in case of suddenly occurring issues in production. This kind of
+work is a good fit for established, long-running projects, but can also start with projects still under development to
+free up the developers to focus on new features, while I take care of the maintenance.
+
 ### Training
 
 I'm also offering **developer training** for advanced use of git and Django, for example for the city of Ulm, Germany.
