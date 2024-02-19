@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/2021-square.jpg" id="head">
+<img src="/images/2023-square.jpg" id="head">
 
 # Hi, I'm Tobias.
 
